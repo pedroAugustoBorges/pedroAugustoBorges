@@ -24,7 +24,7 @@ A backend developer passionate about what he does
 - 👨‍💻 All of my projects are available at: https://github.com/pedroAugustoBorges
 - ⚡ A fact: studying changed my life 
 
-Some technologies
+ ## Some technologies
 <div align="center">
  <br>
 <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
