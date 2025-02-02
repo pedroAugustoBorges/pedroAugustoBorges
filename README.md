@@ -9,7 +9,7 @@
 A backend developer passionate about what he does
 
 - 🔭 I am currently looking for an internship  
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Spring
 - 👨‍🎓 Studying Internet Systems at FATEC
 
 
